@@ -83,7 +83,7 @@ var ja_JP ={
     "Ping response recieved from ":"ping 応答受信",
     " - Traceroute to ":" - Traceroute to ",
     "Network unreachable: ":"ネットワーク unreachable: ",
-    "Network not configured for interface: ":"Network not configured for interface: ",
+    "Network not configured for interface: ":"インターフェースに対してネットワークが設定されていない: ",
     "File name:":"ファイル名:",
     "Download":"ダウンロード",
     "Download file":"ダウンロード ファイル"
