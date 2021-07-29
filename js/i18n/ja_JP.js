@@ -32,7 +32,7 @@ var ja_JP ={
     "Save":"保存",
     "Exit":"終了",
     "Group:":"グループ:",
-    "Name:":"名前名前:",
+    "Name:":"名前:",
     "Interface ":"インターフェイス ",
     "Network":"ネットワーク",
     "Mask":"マスク",
